@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(rgb(255, 255, 255),rgb(206, 206, 255),rgb(196, 196, 218),rgb(4, 4, 29));
+}
+#Ques{
+    font-size: 8vh;
+    font-style: italic;
+    color: purple;
+    text-shadow: 0.5vh 0.5vh rgb(233, 189, 233);
+    font-weight: bold;
+}
+button{
+    border-radius: 4vh !important;
+   background-color:  purple;
+   color:white;
+   width: 15vh;
+
+font-style: italic;
+}
+.result{
+    font-size: 5vh;
+   
+    color: rgb(74, 3, 74);
+    font-weight: bold;
+    
+}
